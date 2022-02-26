@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 #### About me 
 
 - Full Stack Software Engineer in the JS ecosystem
-- Passionate about efficient, innovative, and elegant apps
+- Passionate about efficient, innovative, elegant ideas
 - web3/blockchain/dao/nft/crypto enthusiast
-- Based remotely, always on the move
+- Based remotely (explorer)
 
 #### What I'm up to
 
