@@ -1,4 +1,4 @@
-<!-- NOTES
+<!--
 ### Hi there 👋
 
 **richsbrown/richsbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey I'm Richard 👋
+# Hi I'm Richard 👋
 
 #### About me 
 
 - Full Stack Software Engineer in the JS ecosystem
-- Passionate about efficient innovative elegance
+- Passionate about efficient, innovative, and elegant apps
 - web3/blockchain/doa/crypto enthusiast
 - Based remotely, the world is meant to be seen
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  
   <img alt="ChakraUI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
  
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=for-the-badge">
+  <!-- <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=for-the-badge"> -->
  
   <img alt="Node" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
  
@@ -67,8 +67,11 @@ Here are some ideas to get you started:
   <img alt="Firebasae" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img alt="Chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+
+  <img alt="Chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+
 <!--   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
+
 <!--   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> -->
   
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
