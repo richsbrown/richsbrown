@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 - Full Stack Software Engineer in the JS ecosystem
 - Passionate about efficient, innovative, and elegant apps
-- web3/blockchain/doa/crypto enthusiast
-- Based remotely, the world is meant to be seen
+- web3/blockchain/dao/nft/crypto enthusiast
+- Based remotely, always on the move
 
 #### What I'm up to
 
