@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 #### Latest Projects
 
+- Scumboleo - https://github.com/richsbrown/scrumboleo
 - Zims - https://github.com/richsbrown/zims
 - CoinBeat - https://github.com/richsbrown/coinbeat
 - TripHut - https://github.com/richsbrown/TRIPHUT
