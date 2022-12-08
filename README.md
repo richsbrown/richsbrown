@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 #### About me 
 
 - Full Stack Software Engineer in the JS ecosystem
-- Passionate about efficient, innovative, elegant ideas
-- web3/blockchain/dao/nft/crypto enthusiast
+- Enjoys collaborating with diverse teams to bring to life innovative ideas
 - Based remotely (explorer)
 
 #### What I'm up to
 
-- Learning more about Blockchain development, web3 and solidity!
 - Developing and testing new app ideas
 
 #### Latest Projects
