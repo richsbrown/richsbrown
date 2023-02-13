@@ -4,11 +4,6 @@
 
 - Full Stack Software Engineer in the JS ecosystem
 - Enjoys collaborating with diverse teams to bring to life innovative ideas
-- Based remotely (explorer)
-
-#### What I'm up to
-
-- Developing and testing new app ideas
 
 #### Latest Projects
 
