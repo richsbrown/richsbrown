@@ -18,6 +18,8 @@ LinkedIn: https://www.linkedin.com/in/richardsbrown/
  
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
  
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
+
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  
   <img alt="ChakraUI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
