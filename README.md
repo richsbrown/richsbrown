@@ -1,19 +1,10 @@
 # Hi I'm Richard 👋
 
-#### About me 
-
-- Full Stack Software Engineer in the JS ecosystem
-- Enjoys collaborating with diverse teams to bring to life innovative ideas
-
-#### Latest Projects
-
-- Scumboleo - https://github.com/richsbrown/scrumboleo
-- Zims - https://github.com/richsbrown/zims
-- CoinBeat - https://github.com/richsbrown/coinbeat
-- TripHut - https://github.com/richsbrown/TRIPHUT
+#### About me
+Full Stack Software Engineer in the JS ecosystem, who enjoys collaborating with diverse teams to bring to life innovative ideas.
 
 #### How to reach me
-- LinkedIn: https://www.linkedin.com/in/richardsbrown/
+LinkedIn: https://www.linkedin.com/in/richardsbrown/
 
 #### Tech Stack
 <p>
