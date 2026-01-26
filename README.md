@@ -1,7 +1,7 @@
 # Hi I'm Richard 👋
 
 #### About me
-Full Stack Software Engineer in the JS ecosystem, who enjoys collaborating with diverse teams to bring to life innovative ideas.
+Full Stack Software Engineer in the JS/TS ecosystem, who enjoys collaborating with diverse teams to bring to life innovative ideas.
 
 #### How to reach me
 LinkedIn: https://www.linkedin.com/in/richardsbrown/
