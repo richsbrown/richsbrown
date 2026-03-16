@@ -1,4 +1,4 @@
-# Hi I'm Richard 👋
+# Hi 👋
 
 #### About me
 Full Stack Software Engineer in the JS/TS ecosystem, who enjoys collaborating with diverse teams to bring to life innovative ideas.
